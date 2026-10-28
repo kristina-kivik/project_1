@@ -34,5 +34,7 @@
 
 
 
-[Ссылка на проект](https://docs.google.com/spreadsheets/d/1x3NtugPQJcC-XAXDf-YNpQqeffhmmeeHq5Pd7jhJhG4/edit?gid=220888493#gid=220888493)
+[Ссылка на тест-кейсы](https://docs.google.com/spreadsheets/d/1x3NtugPQJcC-XAXDf-YNpQqeffhmmeeHq5Pd7jhJhG4/edit?gid=220888493#gid=220888493)
+
+[Ссылка на БР и регрессионное тестирование](https://docs.google.com/spreadsheets/d/1Loy_1D8ax2FD86oFFt6As6iAT_Gp3YgahdzzaperWOY/edit?gid=1186534874#gid=1186534874)
 
