@@ -1,8 +1,8 @@
-\#Проект 1. Тестирование приложения Mesto
+### Проект 1. Тестирование приложения Mesto
 
 
 
-\##Учебный проект по тестированию веб-приложения Mesto.
+#### Учебный проект по тестированию веб-приложения Mesto.
 
 
 
@@ -34,5 +34,5 @@
 
 
 
-\[Ссылка на проект](https://docs.google.com/spreadsheets/d/1x3NtugPQJcC-XAXDf-YNpQqeffhmmeeHq5Pd7jhJhG4/edit?gid=220888493#gid=220888493)
+[Ссылка на проект](https://docs.google.com/spreadsheets/d/1x3NtugPQJcC-XAXDf-YNpQqeffhmmeeHq5Pd7jhJhG4/edit?gid=220888493#gid=220888493)
 
